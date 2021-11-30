@@ -1,0 +1,25 @@
+body{
+    font-size:x-large;
+}
+.h{
+    text-align:center;
+    background-color:rgb(221, 74, 48);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.th{
+    background-color:rgb(211, 39, 39); 
+   }
+
+.r1{
+    background-color:rgb(16, 241, 241);
+
+}
+.r2{
+    background-color:rgb(192, 114, 51);
+
+}
+
+.r3{
+    background-color:rgb(159, 66, 206);
+
+}
