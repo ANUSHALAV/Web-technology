@@ -1,0 +1,122 @@
+
+.top{
+    background-image:url('anu.jpeg');
+    background-repeat:no-repeat;
+    background-size:cover; 
+    margin:0;
+    padding:0;
+}
+li{
+    display:inline;
+  
+}
+a{
+    color:white;
+    font-family:cursive;
+    text-decoration:none;
+    font-size:x-large;
+}
+ul{
+    word-spacing:80px;
+    float:right;
+    
+}
+img{
+    border-radius:100px;
+    margin:20px;
+   
+}
+a:hover{
+    color:rgb(255, 123, 0);
+   
+  
+}
+.intro{
+    text-align:center;
+    font-size:x-large;
+    color:rgb(22, 21, 21);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#anu{
+    color:white;
+    font-size:x-large;
+}
+
+
+
+
+.he {
+    text-align: center;
+    font-weight: 900;
+}
+
+h1 {
+    font-family: cursive;
+    color: rgba(36, 6, 226, 0.693);
+}
+
+p {
+    font-weight: 400;
+    font-size: large;
+}
+
+.all {
+    border: 2px solid rgb(19, 19, 22);
+    background-color: rgb(163, 163, 206);
+}
+.sub {
+    border:2px solid black;
+    background-color:aliceblue;
+    font-size: x-large;
+}
+
+
+
+
+.h {
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+    background-color: rgb(245, 101, 6);
+}
+
+table {
+    border: 4px solid black;
+}
+
+th {
+    font-family: cursive;
+    width:20%;
+}
+
+th,
+tr
+td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+
+.q{
+    background-image:url('lav.jpeg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.sujal{
+    text-align:center;
+    color:tomato;
+    font-family:cursive;
+}
+.q{
+    font-weight:900;
+    font-size:x-large;
+}
+.project{
+    color:white;
+
+}
+
+
+
